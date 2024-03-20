@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-calculator-by-seun/static/css/main.bccc6bf3.css",
+    "main.js": "/simple-calculator-by-seun/static/js/main.e80ae712.js",
+    "index.html": "/simple-calculator-by-seun/index.html",
+    "main.bccc6bf3.css.map": "/simple-calculator-by-seun/static/css/main.bccc6bf3.css.map",
+    "main.e80ae712.js.map": "/simple-calculator-by-seun/static/js/main.e80ae712.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bccc6bf3.css",
+    "static/js/main.e80ae712.js"
+  ]
+}
